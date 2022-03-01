@@ -41,13 +41,7 @@
 <loc>http://localhost:4000/categories/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/getting-started/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/search/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/page2/</loc>

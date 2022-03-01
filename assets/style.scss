@@ -265,6 +265,7 @@ p > img {
 //
 
 .wrapper-masthead {
+  float: center;
   margin-bottom: 25px;
 }
 
@@ -312,7 +313,7 @@ p > img {
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
-  text-align: left;
+  text-align: center;
 
   @include mobile {
     text-align: center;
@@ -330,8 +331,8 @@ p > img {
 }
 
 nav {
-  float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  float: left;
+  margin-top: 21px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
 
@@ -343,7 +344,7 @@ nav {
   }
 
   a {
-    margin-left: 20px;
+    margin-left: 0px;
     color: $darkGray;
     text-align: right;
     font-weight: 300;
